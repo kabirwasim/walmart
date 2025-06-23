@@ -1,3 +1,4 @@
+walmart_project-piplelines.png
 # 🛍 Walmart Sales Data Analysis
 
 ## 📘 Project Overview
